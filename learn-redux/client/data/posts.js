@@ -1,4 +1,4 @@
-const posts = [
+export default [
    {
       "code":"BAcyDyQwcXX",
       "caption":"Lunch #hamont",
@@ -168,6 +168,3 @@ const posts = [
       "display_src":"https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/11326072_550275398458202_1726754023_n.jpg"
    }
 ];
-
-
-export default posts;

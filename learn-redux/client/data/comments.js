@@ -1,4 +1,4 @@
-const comments = {
+export default {
   "BAhvZrRwcfu":[
     {
       "text":"Totally need to try this.",
@@ -299,5 +299,3 @@ const comments = {
     }
   ]
 };
-
-export default comments;
